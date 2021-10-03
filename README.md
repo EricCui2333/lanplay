@@ -12,20 +12,22 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 
 ## Lanplay Flutter 1.1.0
 
-`2021/10/05`
+`2022/03/08`
 
 ### **新特性**
 
-- 更新依赖
-- 增加亚克力功能
-- 增加修改主题色彩功能
+- 更新SDK, 插件版本
+- 更新游戏数据库, 更新游戏名中文数据库
 
 ### **BUG 修复**
 
-- 框架重写
-- 修复许多 BUG
-- 优化界面显示
-- 优化性能
+- 修复滚动视图有两重叠的滚动条
+- 修复Windows 平台无法读取系统的暗色模式
+- 禁用Windows 平台标题栏双击, 移除窗口最小化延迟
+- 修复用户名有特殊字符时, 找不到bin文件的bug
+
+---
+
 
 ## Lanplay Flutter 1.0.1
 
@@ -49,7 +51,9 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 
 ### **已知问题**
 
-- Windows 平台无法监控系统的暗色模式变化 (等 Flutter SDK 更新)
+- ~~滚动视图有两重叠的滚动条 (等 Flutter SDK 更新)~~
+- ~~Windows 平台无法读取系统的暗色模式 (等 Flutter SDK 更新)~~
+- ~~Windows 窗口最小化略微延迟 (暂时无法修复，不影响使用)~~
 - Windows 平台鼠标滚轮滚动速度过慢 (暂时没有好用的解决方案)
 - Android 平台无法使用自定义国旗 emoji 字体 (Flutter 不支持彩色字体，只能用系统的 emoji)
 - Android 平台会弹出较多的 root 权限 toast (暂时无法解决)
