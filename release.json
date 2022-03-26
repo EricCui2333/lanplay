@@ -1,8 +1,10 @@
 ﻿{
-    "android-arm":  "lanplay_flutter_armv7a_1.1.0.apk",
-    "version":  "1.1.0",
-    "android-x64":  "lanplay_flutter_x86_64_1.1.0.apk",
-    "android-arm64":  "lanplay_flutter_arm64v8a_1.1.0.apk",
+    "windows":  "lanplay_flutter_setup_1.1.1.exe",
+    "linux":  "lanplay_flutter_linux_1.1.1.tar.gz",
+    "macos":  "lanplay_flutter_macos_1.1.1.zip",
+    "version":  "1.1.1",
+    "android-arm64":  "lanplay_flutter_arm64v8a_1.1.1.apk",
+    "android-x64":  "lanplay_flutter_x86_64_1.1.1.apk",
     "changelog":  "CHANGELOG.md",
-    "windows":  "lanplay_flutter_setup_1.1.0.exe"
+    "android-arm":  "lanplay_flutter_armv7a_1.1.1.apk"
 }

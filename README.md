@@ -10,24 +10,34 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 - **macOS** (只支持 x64)
 # 更新日志
 
+## Lanplay Flutter 1.1.1
+
+`2022/03/26`
+
+### **新特性**
+
+- 更新游戏数据库, 更新游戏名中文数据库
+- 添加系统托盘图标(macOS 暂不支持)
+- 调整 Windows 平台图标大小
+- 添加 macOS 支持
+
 ## Lanplay Flutter 1.1.0
 
 `2022/03/08`
 
 ### **新特性**
 
-- 更新SDK, 插件版本
+- 更新 SDK, 插件版本
 - 更新游戏数据库, 更新游戏名中文数据库
 
 ### **BUG 修复**
 
 - 修复滚动视图有两重叠的滚动条
-- 修复Windows 平台无法读取系统的暗色模式
-- 禁用Windows 平台标题栏双击, 移除窗口最小化延迟
-- 修复用户名有特殊字符时, 找不到bin文件的bug
+- 修复 Windows 平台无法读取系统的暗色模式
+- 禁用 Windows 平台标题栏双击, 移除窗口最小化延迟
+- 修复用户名有特殊字符时, 找不到 bin 文件的 bug
 
 ---
-
 
 ## Lanplay Flutter 1.0.1
 
