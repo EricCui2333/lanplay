@@ -10,6 +10,17 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 - **macOS** (只支持 x64)
 # 更新日志
 
+## Lanplay Flutter 1.2.0
+
+`2022/04/7`
+
+### **新特性**
+
+- 更新游戏数据库, 更新游戏名中文数据库
+- 优化框架
+- 优化部分 UI 显示
+- 添加用户反馈功能 (基于 [Sentry.io](https://sentry.io/))
+
 ## Lanplay Flutter 1.1.1
 
 `2022/03/26`
