@@ -10,6 +10,22 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 - **macOS** (只支持 x64)
 # 更新日志
 
+## Lanplay Flutter 1.3.0
+
+`2022/04/9`
+
+### **新特性**
+
+- 数据储存改为 NoSQL 数据库（如果跳过此版本升级，下版本会丢失所有配置）
+- 折叠错误次数过多的服务器
+- 优化 UI 配色
+
+### **BUG 修复**
+
+- 修复获取服务器状态时，超时不生效的问题
+
+---
+
 ## Lanplay Flutter 1.2.0
 
 `2022/04/7`
@@ -21,6 +37,8 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 - 优化部分 UI 显示
 - 添加用户反馈功能 (基于 [Sentry.io](https://sentry.io/))
 
+---
+
 ## Lanplay Flutter 1.1.1
 
 `2022/03/26`
@@ -31,6 +49,8 @@ Flutter 写的 [switch-lan-play](https://github.com/spacemeowx2/switch-lan-play)
 - 添加系统托盘图标(macOS 暂不支持)
 - 调整 Windows 平台图标大小
 - 添加 macOS 支持
+
+---
 
 ## Lanplay Flutter 1.1.0
 

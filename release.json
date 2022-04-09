@@ -1,10 +1,10 @@
 ﻿{
-    "windows":  "lanplay_flutter_setup_1.2.0.exe",
-    "linux":  "lanplay_flutter_linux_1.2.0.tar.gz",
-    "macos":  "lanplay_flutter_macos_1.2.0.zip",
-    "version":  "1.2.0",
-    "android-arm64":  "lanplay_flutter_arm64v8a_1.2.0.apk",
-    "android-x64":  "lanplay_flutter_x86_64_1.2.0.apk",
+    "windows":  "lanplay_flutter_setup_1.3.0.exe",
+    "linux":  "lanplay_flutter_linux_1.3.0.tar.gz",
+    "macos":  "lanplay_flutter_macos_1.3.0.zip",
+    "version":  "1.3.0",
+    "android-arm64":  "lanplay_flutter_arm64v8a_1.3.0.apk",
+    "android-x64":  "lanplay_flutter_x86_64_1.3.0.apk",
     "changelog":  "CHANGELOG.md",
-    "android-arm":  "lanplay_flutter_armv7a_1.2.0.apk"
+    "android-arm":  "lanplay_flutter_armv7a_1.3.0.apk"
 }
